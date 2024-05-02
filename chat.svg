@@ -290,7 +290,7 @@
 
   <!-- Hi, I'm Jason -->
   <g transform="translate(10, 0)" class="msg-1 bubble">
-    <rect width="170" height="42" rx="18.0355" />
+    <rect width="140" height="42" rx="18.0355" />
     <text x="15" y="27">Hi, I'm Ankan</text>
   </g>
 
@@ -314,7 +314,7 @@
 
   <!-- From Columbus... -->
   <g transform="translate(10, 48)" class="msg-2">
-    <rect width="420" height="42" rx="18.0355" class="bubble" />
+    <rect width="350" height="42" rx="18.0355" class="bubble" />
     <text x="15" y="27">Computer Vision Engineer at OpenCV</text>
   </g>
 
@@ -338,7 +338,7 @@
 
   <!-- Work ... -->
   <g transform="translate(10, 96)" class="msg-3">
-    <rect width="425" height="42" rx="18.0355" class="bubble" />
+    <rect width="280" height="42" rx="18.0355" class="bubble" />
     <text x="15" y="27">Interned with IIT Gandhinagar</text>
   </g>
 
@@ -362,8 +362,8 @@
 
   <!-- Twitter -->
   <g transform="translate(10, 144)" class="msg-4">
-    <rect width="325" height="42" rx="18.0355" class="bubble" />
-    <text x="15" y="27">Contributed to GCCD2023 Kolkata</text>
+    <rect width="300" height="42" rx="18.0355" class="bubble" />
+    <text x="15" y="27">Contributed to GCCD23 Kolkata</text>
   </g>
 
   <!-- typing 5 -->
@@ -413,7 +413,7 @@
 
   <!-- Have a great... -->
   <g transform="translate(10, 240)" class="msg-6">
-    <rect width="525" height="42" rx="18.0355" class="bubble" />
+    <rect width="500" height="42" rx="18.0355" class="bubble" />
     <text x="15" y="27">
       Read my blogs at
       <a xlink:href="https://learnopencv.com/author/ankan">
@@ -442,7 +442,7 @@
 
   <!-- Have a great... -->
   <g transform="translate(10, 288)" class="msg-7">
-    <rect width="445" height="42" rx="18.0355" class="bubble" />
+    <rect width="230" height="42" rx="18.0355" class="bubble" />
     <text x="15" y="27"> Trust me, I am not a bot </text>
   </g>
 </svg>
